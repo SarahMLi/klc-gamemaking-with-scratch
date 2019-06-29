@@ -1,0 +1,3 @@
+when they touch things, and be controlled by the player.
+        * Sprites can also be programmed to talk in speech bubbles and play sounds and music.
+        * A project can have lots of sprites, and each sprite can have lots of scripts. 
